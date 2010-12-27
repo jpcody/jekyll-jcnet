@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div id="portfolio" class="contain">
+	<div id="portfolio_meta">	
+		<h1><a href=" {{ page.url }}">{{ page.title }}</a></h1>	
+		{{ content }}
+	</div><!-- end #portfolio_meta -->	
+	    {% for item in page.allImages %}
+	        {{ item }}
+	    {% endfor %}
+</div><!-- end #portfolio -->

@@ -1,0 +1,21 @@
+---
+layout: blog_single
+title: Encouragement for the Unemployed
+category: blog
+permalink: blog/encouragement_for_the_unemployed
+shortUrl: http://jpcody.in/27
+---
+<p>Those of you who know me are likely to know I've been on the job hunt for awhile now. Little was changing for about seven months, and it was getting fairly discouraging. Unfortunately, the temptation to define our value based on external validation is part of the human condition. It just happens. But then, two-weeks-ago happened.</p>
+<p>Between Tuesday and Wednesday, I received three job offers. I was on the verge of making my decision Sunday when another organization called to ask me to come in that afternoon for a pitch. Seven months unemployed, I had four people to give a final decision on Monday.</p>
+<h3>Why I Said That Stuff</h3>
+<p>This isn't an exercise in hubris. I was obviously unemployable for seven months; I would like to emphasize that. Some days I considered going out and applying for jobs that would have likely rendered me fairly unhappy. It's not fun to watch <a href="http://twitter.com/carolinecody">your wife</a> work her tail off for five months while you freelance, look for jobs, and eat kettle chips.</p>
+<p>But in those seven months, I pursued something I love. I tried things. I tried lots of different things. I learned the niche that I learned that I loved within the thing that I learned that I loved. I found people who were amazing at the thing that I learned that I loved and the niche that I learned that I loved within the thing that I learned that I loved.</p>
+<p>I read. I worked. I <a href="http://joshuacody.net/portfolio">created things to work on</a> when people weren't paying me to work. I thought. I wrote. I thought some more. I tried not to incessantly refresh <a href="http://cnn.com">cnn.com</a> and <a href="http://espn.com">espn.com</a>. I waitied. I wrote about what I thought and why I thought it.</p>
+<p>And then I had the amazing opportunity to say no to three people.</p>
+<p>But even more, I had the opportunity to say yes to <a href="http://qworky.com">Qworky</a>.</p>
+<h3>What I'll be doing</h3>
+<p>Well, Qworky has a product. It's a product that's going to be a pretty big help to a lot of people. A product I believe in. A product that will have a website as soon as I finish making it. And Qworky has a team. A team of smart guys and girls who really believe in the product, genuinely care about people, and are smart as a whip.</p>
+<p>I'll be the <strong>QX Developer</strong>, which is short for Qworky Experience Developer. I'll be taking their product and helping them make it a dream for you to use. Taking every hurdle possible that's between you and your work and leave it crying in the corner. Helping you get from waking up to doing what you love to not doing what you love and instead doing what you love to do outside of work.</p>
+<p>I'll be doing a little freelancing for some time, wrapping up old projects and perhaps starting some new ones. But mostly, I'll be thinking about experiences, which thrills me to no end. I'll leave my nose in articles such as <a href="http://www.lukew.com/ff/entry.asp?968">this</a>, <a href="http://www.alistapart.com/articles/the-problem-with-passwords/">this</a>, and <a href="http://52weeksofux.com/post/385981737/the-usage-lifecycle">this</a>. I'll work from <a href="http://stumptowncoffee.com/locations/downtown">here</a>. And I'll get one of <a href="http://images.google.com/images?client=safari&amp;rls=en&amp;q=german%20shorthaired%20pointer&amp;oe=UTF-8&amp;um=1&amp;ie=UTF-8&amp;sa=N&amp;hl=en&amp;tab=wi">these</a>.</p>
+<p>I feel fortunate and inspired that so many people who know me prayed for me, thought of me, connected me with opportunities, and truly cared for me. I feel grateful that I have a wife who worked so hard and waited so patiently while her husband sought his passion.</p>
+<p>But most of all, I feel encouraged, and I hope you do too, that hard work, dedication, risks, and dreams still lead to great promise and opportunities. I hope you'll take these words as a challenge and encouragement to find and do whatever you love. To surround yourself with great people. And to live a fuller life.</p>

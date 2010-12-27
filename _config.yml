@@ -1,0 +1,6 @@
+paginate: 20
+markdown: kramdown
+permalink: /:categories/:title
+exclude: _posts/blog/0-sample.html,
+         _posts/portfolio/0-sample.html,
+         _posts/things/0-sample.html

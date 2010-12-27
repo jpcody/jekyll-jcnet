@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div id="blog_content">
+    <div class="post">	
+    	<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    	<div class="title">			
+    		<h3 class="no_bg">Shortened:</h3>
+    		<h2><a href="{{ page.shortUrl }}">{{ page.shortUrl }}</a></h2>
+    		<h3 class="no_bg">Dated:</h3>
+    		<h2>{{ page.date |  date: "%d %B %Y"}}</h2>
+    	</div><!-- end .title -->
+    	<div class="blog_body">		
+    		{{ content }}
+    	</div><!-- end .blog_body  -->				
+    </div><!-- end .post -->
+    <div class="entry_pagination contain">
+        {% if page.previous %} 
+        <h3>Older entry:</h3>
+        <p><a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+        {% endif %}
+        {% if page.next %} 
+        <h3>Newer entry:</h3>
+        <p><a rel="prev" href="{{ page.next.url }}">{{ page.next.title }}</a></p>
+        {% endif %}
+    </div><!-- end .entry_pagination -->
+<!-- end #blog_content -->

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div id="portfolio" class="contain">
+    <h1>Portfolio</h1>
+	<p>Here's a little bit of what I've been up to lately&mdash;carefully-forged pixels, made with a strict dedication to users, standards and fundamentals. If you like what you see, your next best steps would be to visit the colophon, to download <a href="http://drp.ly/3Af6M">my r&eacute;sum&eacute;</a> or to contact me.</p>	
+	<p>You can focus on specific projects below with the following links:</p> 	
+	<ul id="types">
+		<li><a href="#" title="web">Web</a></li>
+		<li><a href="#" title="print">Print</a></li>
+		<li><a href="#" title="non-profit">Non-profit</a></li>
+		<li><a href="#" title="personal">Personal</a></li>
+		<li><a href="#" title="development">Development</a></li>
+		<li><a href="#" title="writing">Writing</a></li>
+	</ul>    
+	<ul id="items">
+	    {% for post in site.categories.portfolio %}
+	    <li class="{{ post.classes }}"><a href="{{ post.url }}"><img src="{{ post.thumb }}" alt="{{ post.title }} Thumbnail" width="200" height="200"></a></li>
+	    {% endfor %}
+	</ul>
+</div><!-- end #portfolio -->

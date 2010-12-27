@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div id="blog_content">
+    {% for post in site.categories.blog in paginator.posts %}
+    <div class="post">	
+    	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    	<div class="title">			
+    		<h3 class="no_bg">Shortened:</h3>
+    		<h2><a href="{{ post.shortUrl }}">{{ post.shortUrl }}</a></h2>
+    		<h3 class="no_bg">Dated:</h3>
+    		<h2>{{ post.date | date: '%d %B %Y' | replace: '01 ', '1 ' | replace: '02 ', '2 ' | replace: '03 ', '3 ' | replace: '04 ', '4 ' | replace: '05 ', '5 ' | replace: '06 ', '6 ' | replace: '07 ', '7 ' | replace: '08 ', '8 ' | replace: '09 ', '9 ' }}</h2>
+    	</div><!-- end .title -->
+    	<div class="blog_body">		
+    		{{ post.content }}
+    	</div><!-- end .blog_body  -->				
+    </div><!-- end .post -->
+    {% endfor %}
+    <div class="blog_pagination contain">	
+    {% if paginator.next_page %}
+        <h3 class="left"><a href="http://joshuacody.net/blog/P40">&#171; Older Entries</a></h3>
+    {% endif %}
+    {% if paginator.previous_page %}
+	    <h3 class="right"><a href="http://joshuacody.net/blog/P0">Newer Entrires &#187;</a></h3>
+    {% endif %}    
+    </div><!-- end .blog_pagination -->
+</div><!-- end #blog_content  -->
