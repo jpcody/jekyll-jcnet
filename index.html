@@ -10,6 +10,8 @@ layout: default
     		<h2><a href="{{ post.shortUrl }}">{{ post.shortUrl }}</a></h2>
     		<h3 class="no_bg">Dated:</h3>
     		<h2>{{ post.date | date: '%d %B %Y' | replace: '01 ', '1 ' | replace: '02 ', '2 ' | replace: '03 ', '3 ' | replace: '04 ', '4 ' | replace: '05 ', '5 ' | replace: '06 ', '6 ' | replace: '07 ', '7 ' | replace: '08 ', '8 ' | replace: '09 ', '9 ' }}</h2>
+				<h3 class="no_bg">Category:</h3>
+				<h2>{{ post.categories | array_to_sentence_string }}</h2>
     	</div><!-- end .title -->
     	<div class="blog_body">		
     		{{ post.content }}
