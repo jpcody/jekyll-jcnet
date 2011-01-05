@@ -1,19 +1,19 @@
 RewriteEngine On
 
 # Map http://joshuacody.net to /site/blog.html.
-RewriteRule ^$ /site/blog.html [L]
+RewriteRule ^$ /site/_site/blog.html [L]
 
 # Map http://joshuacody.net/xyz to /site/xyz unless there is a x in the web root.
 # Make sure xyz.html isn't a file in the /site directory. Also, this will bite me in the ass someday.
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{DOCUMENT_ROOT}/site/%{REQUEST_URI}\.html !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_URI} !^/site/
-RewriteRule ^(.*)$ /site/$1
+RewriteCond %{REQUEST_URI} !^/site/_site/
+RewriteRule ^(.*)$ /site/_site/$1
 
 # Allow access without .html extension
 RewriteCond %{DOCUMENT_ROOT}/site/%{REQUEST_URI}\.html -f
-RewriteRule ^(.*)$ /site/$1\.html
+RewriteRule ^(.*)$ /site/_site/$1\.html
 
 # Add trailing slash to directories without them so DirectoryIndex works.
 # This does not expose the internal URL.
