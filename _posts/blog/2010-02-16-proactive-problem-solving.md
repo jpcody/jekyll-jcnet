@@ -2,7 +2,7 @@
 layout: blog_single
 title: Proactive Problem Solving
 category: blog
-permalink: blog/proactive_problem_solving
+permalink: /blog/proactive_problem_solving
 shortUrl: http://jpcody.in/29
 ---
 <p>Caroline and I are staying at a hotel in San Diego to get a three-day break from <a href="http://en.wikipedia.org/wiki/Portland,_Oregon#Climate">winter in Portland</a>. We fly for nearly free thanks to parents at Delta, I can work from the road, and we scored a great deal on our accommodations on <a href="http://priceline.com">Priceline</a>. Despite the good price, I'd never stay here again, but I'm not going to complain about it.</p>

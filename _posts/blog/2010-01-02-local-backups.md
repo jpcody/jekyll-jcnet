@@ -2,7 +2,7 @@
 layout: blog_single
 title: Making Site Backups to Your Local Machine
 category: blog
-permalink: blog/making_site_backups_to_your_local_machine
+permalink: /blog/making_site_backups_to_your_local_machine
 shortUrl: http://jpcody.in/1c
 ---
 <p><strong>Warning:</strong> Here be nerdery and hackery that will be more valuable to future Googlers than most who would occasionally read these thoughts. Also, a Mac and <a href="http://panic.com/transmit">Transmit</a> by Panic are here used.<sup id="2010_01_02_fnlink1"><a href="#2010_01_02_fn1">1</a></sup></p>

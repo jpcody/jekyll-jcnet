@@ -2,7 +2,7 @@
 layout: blog_single
 title: Great Expectations
 category: blog
-permalink: blog/great_expectations
+permalink: /blog/great_expectations
 shortUrl: http://jpcody.in/1s
 ---
 <p>In the vein of <a href="http://joshuacody.net/blog/on_disappointment">disappointment</a>, I have another question: Where are you setting your expectations? I think for most of us, the answer to that question is, "too low."</p>

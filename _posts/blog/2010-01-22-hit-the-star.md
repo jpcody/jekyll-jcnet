@@ -2,7 +2,7 @@
 layout: blog_single
 title: Like it? Hit the Star.
 category: blog
-permalink: blog/like_it_hit_the_star
+permalink: /blog/like_it_hit_the_star
 shortUrl: http://jpcody.in/1v
 ---
 <p>One of the uses of Twitter I admire most is a delivery vehicle of succinct, well-thought, original content. That being said, I use the the "star" feature pretty often, and I'm convinced I'm in the minority here. (See <a href="http://help.twitter.com/forums/10711/entries/14214">Twitter's official documentation</a> on the feature.) Whether I'm marking a link to read later, saving a piece of wisdom, or bookmarking a great quip, I'm hitting the star all the time.</p>

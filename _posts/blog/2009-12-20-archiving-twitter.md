@@ -2,7 +2,7 @@
 layout: blog_single
 title: Archiving Twitter&mdash;Making My Data Mine
 category: blog
-permalink: blog/archiving_twitter_making_my_data_mine
+permalink: /blog/archiving_twitter_making_my_data_mine
 shortUrl: http://jpcody.in/m
 ---
 <a href="http://joshuacody.net/archive"><img src="/images/blog-img/twitter-archive.jpg" alt="Twitter Archive" width="380" height="245" class="main"/></a>

@@ -2,7 +2,7 @@
 layout: blog_single
 title: The Beauty of Discovery
 category: blog
-permalink: blog/the_beauty_of_discovery
+permalink: /blog/the_beauty_of_discovery
 shortUrl: http://jpcody.in/2e
 ---
 

@@ -2,7 +2,7 @@
 layout: blog_single
 title: The Church and the Resistance
 category: blog
-permalink: blog/the_church_and_the_resistance
+permalink: /blog/the_church_and_the_resistance
 shortUrl: http://jpcody.in/2b
 ---
 <p class="note"><strong>Foreword:</strong> This matter has rolled around in my head for no small amount of time now. We'll see if I can write about it aptly. I'd like to clarify that this is an indictment of myself before any others. It's a way of thinking and a struggle I've found myself wrapped in. And many, if not most, if not all, of the people who come to your mind during this reading are <strong>phenomenal</strong> people. I'm not criticizing any <strong>one person</strong> but a system in general. You may continue.</p>

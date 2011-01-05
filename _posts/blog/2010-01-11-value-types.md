@@ -2,7 +2,7 @@
 layout: blog_single
 title: The Two Types of Value
 category: blog
-permalink: blog/the_two_types_of_value
+permalink: /blog/the_two_types_of_value
 shortUrl: http://jpcody.in/1k
 ---
 <p>I think our internal value-meters are a bit dull these days. As we face a host of options and products daily, the simplest heuristic is to spread our time and money as thinly as possible. If we buy the most things at the least cost, then surely we will be met with satisfaction.</p>

@@ -2,7 +2,7 @@
 layout: blog_single
 title: Bad Google Voice Transcriptions
 category: blog
-permalink: blog/bad_google_voice_transcriptions
+permalink: /blog/bad_google_voice_transcriptions
 shortUrl: http://jpcody.in/1f
 ---
 <p>Google Voice is pretty exciting in theory. One number to rule them all, archived and searchable SMS, voicemails stored as text, recording conversations, different rules for different contact groups. You've got to admit, those are some incredible features.</p>

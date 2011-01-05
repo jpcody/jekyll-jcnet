@@ -2,7 +2,7 @@
 layout: blog_single
 title: On Leading and Generosity
 category: blog
-permalink: blog/on_leading_and_generosity
+permalink: /blog/on_leading_and_generosity
 shortUrl: http://jpcody.in/1h
 ---
 <p>Great leaders are generous. Not as a marketing ploy. Not as a bait-and-switch tactic. Not because they're rich and have nothing better to do with their money. A story will better illustrate why. <sup id="2010_01_07_fnlink1"><a href="

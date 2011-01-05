@@ -2,7 +2,7 @@
 layout: blog_single
 title: Dealing With Dumb Users
 category: blog
-permalink: blog/dealing_with_dumb_users
+permalink: /blog/dealing_with_dumb_users
 shortUrl: http://jpcody.in/25
 ---
 <p>In a <a href="http://blogs.adobe.com/jnack/2009/12/rt_illustration_moby-dick.html">link roundup</a> over a month ago, John Nack from Adobe linked thusly:</p>

@@ -2,7 +2,7 @@
 layout: blog_single
 title: The Erosion of Compromises
 category: blog
-permalink: blog/the_erosion_of_compromises
+permalink: /blog/the_erosion_of_compromises
 shortUrl: http://jpcody.in/1z
 ---
 <p>Someone starts a vision with a vision, a dream, and a passion.</p>

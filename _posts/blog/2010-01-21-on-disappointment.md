@@ -2,7 +2,7 @@
 layout: blog_single
 title: On Disappointment
 category: blog
-permalink: blog/on_disappointment
+permalink: /blog/on_disappointment
 shortUrl: http://jpcody.in/1u
 ---
 <p class="big_quote">Disappointment is a byproduct of unmet expectations.</p>

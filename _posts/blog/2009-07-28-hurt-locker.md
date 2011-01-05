@@ -2,7 +2,7 @@
 layout: blog_single
 title: The Hurt Locker
 category: blog
-permalink: blog/the_hurt_lockerbr
+permalink: /blog/the_hurt_lockerbr
 shortUrl: http://jpcody.in/e
 ---
 <a href="/images/blog-img/2009-07-28-hurtlockerbig.jpg"><img src="/images/blog-img/2009-07-28-hurtlockersmall.jpg" alt="The Hurt Locker" class="right"></a>

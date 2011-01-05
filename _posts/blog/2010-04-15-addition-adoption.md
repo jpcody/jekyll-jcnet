@@ -2,7 +2,7 @@
 layout: blog_single
 title: Addition by Adoption
 category: blog
-permalink: blog/addition_by_adoption
+permalink: /blog/addition_by_adoption
 shortUrl: http://jpcody.in/2a
 ---
 <p>23 years ago today, a black sedan pulled into the parking lot of a nondescript brick building. The kind you see everywhere in the suburbs. Built at an indeterminable time between 1975 and 2000, faux columns, concrete stairs. You've seen them before.</p>

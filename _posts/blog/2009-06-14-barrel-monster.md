@@ -2,7 +2,7 @@
 layout: blog_single
 title: Barrel Monster
 category: blog
-permalink: blog/barrel_monster
+permalink: /blog/barrel_monster
 shortUrl: http://jpcody.in/2b
 ---
 <img src="/images/blog-img/2009-06-14-barrelmonster.jpg" alt="image" width="370" height="301" class="main">

@@ -2,7 +2,7 @@
 layout: blog_single
 title: Apple's Multitasking Solution
 category: blog
-permalink: blog/apples_multitasking_solution
+permalink: /blog/apples_multitasking_solution
 shortUrl: http://jpcody.in/26
 ---
 <p><a href="http://gizmodo.com/5458382/8-things-that-suck-about-the-ipad">A</a> <a href="http://www.engadget.com/2010/01/27/editorial-engadget-on-the-ipad/">lot</a> <a href="http://www.cultofmac.com/no-multi-tasking-or-better-home-screen-love-for-ipad/27965">of</a> <a href="http://www.itbusinessedge.com/cm/blogs/all/ipad-for-business-not-without-multitasking/?cs=39046">folks</a> have been complaining about the lack of multitasking on the iPad<sup id="2010_02_05_fnlink1"><a href="#2010_02_05_fn1">1</a></sup>. And previously, on the iPhone. But they're framing this discussion in the wrong way.</p>

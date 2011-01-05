@@ -2,7 +2,7 @@
 layout: blog_single
 title: Your Competitors are Your Contributors
 category: blog
-permalink: blog/your_competitors_are_your_contributors
+permalink: /blog/your_competitors_are_your_contributors
 shortUrl: http://jpcody.in/23
 ---
 <p>Lately, I've been particularly impressed by the idea that actual market saturation is a point much higher than I would anticipate. More simply, the sandbox is a lot bigger than I realized.</p>

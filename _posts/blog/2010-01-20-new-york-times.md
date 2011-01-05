@@ -2,7 +2,7 @@
 layout: blog_single
 title: Paying for The New York Times Online
 category: blog
-permalink: blog/paying_for_the_new_york_times_online
+permalink: /blog/paying_for_the_new_york_times_online
 shortUrl: http://jpcody.in/1x
 ---
 <p>The New York Times reported today that The New York Times will begin <a href="http://www.nytimes.com/2010/01/21/business/media/21times.html?src=twt&amp;twt=nytimesglobal">charging users for online access</a> after viewing a yet-to-be-determined number of free articles.</p>
@@ -34,5 +34,5 @@ shortUrl: http://jpcody.in/1x
 <p>I frankly don't know if solution two is possible. And in the end, surviving as a company might mean narrowing your focus, developing your voice, and accepting smaller revenues. People will pay, but ad revenue will shrink, and circulation will narrow. This is less-than-ideal for a business whose job is to increase revenue, but it's markedly better than bankruptcy.</p>
 <ol>
 	<li id="2010_01_20_fn1">Even if they do have this notion, that bubble will eventually burst. Who is going to be left standing to hold their money? <a href="#2010_01_20_fnlink1" class="small_caps">&nbsp;&nbsp;[Jump back]</a></li>
-	<li id="2010_01_20_fn2">Don't buy it? See the <a href="http://ampersand.gosedesign.net/">Ampersand Blog</a>. Can you get **that** in newspapers? <a href="#2010_01_20_fnlink2" class="small_caps">&nbsp;&nbsp;[Jump back]</a></li>
+	<li id="2010_01_20_fn2">Don't buy it? See the <a href="http://ampersand.gosedesign.net/">Ampersand Blog</a>. Can you get <strong>that</strong> in newspapers? <a href="#2010_01_20_fnlink2" class="small_caps">&nbsp;&nbsp;[Jump back]</a></li>
 </ol>

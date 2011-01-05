@@ -2,7 +2,7 @@
 layout: blog_single
 title: Hypercritical
 category: blog
-permalink: blog/hypercritical
+permalink: /blog/hypercritical
 shortUrl: http://jpcody.in/6
 ---
 <p>John Siracusa of Ars Technica recently wrote <a href="http://arstechnica.com/staff/fatbits/2009/05/hypercritical.ars">Hypercritical</a>, an insightful look into the mind of those who were born to critique. It's a skill that I'm trying to develop more each day, but John is just on a whole different level. Don't trust me? Read his <a href="http://arstechnica.com/apple/reviews/2007/10/mac-os-x-10-5.ars">17-page review of Mac OS X Leopard</a>.</p>

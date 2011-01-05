@@ -2,7 +2,7 @@
 layout: blog_single
 title: 5 Albums to Remember From the Aughts
 category: blog
-permalink: blog/5_albums_to_remember_from_the_90s
+permalink: /blog/5_albums_to_remember_from_the_90s
 shortUrl: http://jpcody.in/1a
 ---
 <p class="note"><span class="small_caps">Editor's Note: </span>Somehow I missed that I originally posted this as <em>5 Albums to Remember From the 90s</em>. The error was sever, and we at joshuacody.net extend our most sincere apologies. And a tip o' the hat to <a href="http://twitter.com/jeff_goins">Jeff Goins</a> for the help.</p>

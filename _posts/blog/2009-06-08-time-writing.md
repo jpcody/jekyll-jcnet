@@ -2,7 +2,7 @@
 layout: blog_single
 title: On Time’s Terrible Writing
 category: blog
-permalink: blog/on_times_terrible_writing
+permalink: /blog/on_times_terrible_writing
 shortUrl: http://jpcody.in/4
 ---
 <p>Recently, I had the misfortune of reading <a href="http://www.time.com/time/business/article/0,8599,1899804,00.html">What Will the World Do With More Search Engines?</a>, an online article from <em>Time Magazine</em>, written by Douglas A. McIntyre. I bookmarked it, feeling something should be done or said about the state of journalism online. A couple weeks later, this is both the time and place for that. In order for you to get the full effect of my commentary, as well as for a good laugh, you should go ahead and <a href="http://www.time.com/time/business/article/0,8599,1899804,00.html">read the article</a>. I'll wait here.</p>

@@ -2,7 +2,7 @@
 layout: blog_single
 title: Encouragement for the Unemployed
 category: blog
-permalink: blog/encouragement_for_the_unemployed
+permalink: /blog/encouragement_for_the_unemployed
 shortUrl: http://jpcody.in/27
 ---
 <p>Those of you who know me are likely to know I've been on the job hunt for awhile now. Little was changing for about seven months, and it was getting fairly discouraging. Unfortunately, the temptation to define our value based on external validation is part of the human condition. It just happens. But then, two-weeks-ago happened.</p>

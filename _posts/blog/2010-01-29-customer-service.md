@@ -2,7 +2,7 @@
 layout: blog_single
 title: Making Customer Service Calls Less Painful
 category: blog
-permalink: blog/making_customer_service_calls_less_painful
+permalink: /blog/making_customer_service_calls_less_painful
 shortUrl: http://jpcody.in/24
 ---
 <p><a href="http://twitter.com/jpcody/status/8383858116">This idea</a> hit me while navigating some sort of phone option choose-your-own-adventure thing:</p>

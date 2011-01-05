@@ -2,7 +2,7 @@
 layout: blog_single
 title: Clients From Hell, or, Designer Elitism
 category: blog
-permalink: blog/clients_from_hell_or_designer_elitism
+permalink: /blog/clients_from_hell_or_designer_elitism
 shortUrl: http://jpcody.in/1n
 ---
 <p>By now, you've surely heard of <a href="http://clientsfromhell.tumblr.com/">Clients From Hell</a>. If not, go ahead and read some of the stories, then come back here.</p>

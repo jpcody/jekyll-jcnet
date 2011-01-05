@@ -2,7 +2,7 @@
 layout: blog_single
 title: My 7 Favorite Movies From 2009
 category: blog
-permalink: blog/my_7_favorite_movies_from_2009
+permalink: /blog/my_7_favorite_movies_from_2009
 shortUrl: http://jpcody.in/1e
 ---
 <ul class="unstyled_list">

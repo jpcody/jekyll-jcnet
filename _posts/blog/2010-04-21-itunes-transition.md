@@ -2,7 +2,7 @@
 layout: blog_single
 title: iTunes Transitions Gone Sour
 category: blog
-permalink: blog/itunes_transitions_gone_sour
+permalink: /blog/itunes_transitions_gone_sour
 shortUrl: http://jpcody.in/2c
 ---
 <p>I wish iTunes had some sort of feature to stop playing after the current album. Here are alphabetical artist transitions that can bring any sort of zone I'm in, focus I have, or enjoyment of mine to a grinding and complete halt.</p>

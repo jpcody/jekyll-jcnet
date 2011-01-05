@@ -2,7 +2,7 @@
 layout: blog_single
 title: Efficiency and Community
 category: blog
-permalink: blog/efficiency_and_community
+permalink: /blog/efficiency_and_community
 shortUrl: http://jpcody.in/28
 ---
 <p>Efficiency is a friend to business and productivity, but it's an enemy of community. Trust and lasting relationships are built on the belief that the other party values <strong>you</strong> more than they value <strong>themselves</strong>.</p>

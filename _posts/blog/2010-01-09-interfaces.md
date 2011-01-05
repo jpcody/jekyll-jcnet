@@ -2,7 +2,7 @@
 layout: blog_single
 title: Web Designers and Traditional Interfaces
 category: blog
-permalink: blog/web_designers_and_traditional_interfaces
+permalink: /blog/web_designers_and_traditional_interfaces
 shortUrl: http://jpcody.in/1l
 ---
 <blockquote>

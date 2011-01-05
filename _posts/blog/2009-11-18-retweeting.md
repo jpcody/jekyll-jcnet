@@ -2,7 +2,7 @@
 layout: blog_single
 title: Please Retweet. Please? Guys?
 category: blog
-permalink: blog/please_retweet_please_guys
+permalink: /blog/please_retweet_please_guys
 shortUrl: http://jpcody.in/f
 ---
 <p>You'll surely find yourself more fulfilled by <a href="http://evhead.com/2009/11/why-retweet-works-way-it-does.html">Evan Williams' explanation</a> than my own. Read on at your own peril.</p>

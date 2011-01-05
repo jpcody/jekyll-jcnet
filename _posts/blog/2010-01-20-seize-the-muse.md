@@ -2,7 +2,7 @@
 layout: blog_single
 title: Seize the Muse
 category: blog
-permalink: blog/seize_the_muse
+permalink: /blog/seize_the_muse
 shortUrl: http://jpcody.in/1t
 ---
 <p>Recently, I feel like I've been witness to a few too many ideas passing me by. Not passing me by for a lack of merit or an innate implausibility, but passing me by because my passion wanes.</p>

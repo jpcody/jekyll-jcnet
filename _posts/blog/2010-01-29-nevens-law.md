@@ -2,7 +2,7 @@
 layout: blog_single
 title: Neven's Law
 category: blog
-permalink: blog/nevens_law
+permalink: /blog/nevens_law
 shortUrl: http://jpcody.in/22
 ---
 <p>Earlier today, <a href="http://twitter.com/nevenmrgan">Neven Mrgan</a> and <a href="http://twitter.com/siracusa">John Siracusa</a> were having a little chat about the adequacy of the <a href="http://daringfireball.net/2010/01/various_ipad_thoughts">automatic and manual transmission metaphor</a> making the rounds in the iPad context.</p>

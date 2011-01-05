@@ -2,7 +2,7 @@
 layout: blog_single
 title: The iPad, Creation, and Consumption
 category: blog
-permalink: blog/ipad_creation_and_consumption
+permalink: /blog/ipad_creation_and_consumption
 shortUrl: http://jpcody.in/21
 ---
 <p>The iPad has generated lots of discussion about computing metaphors, computer interactions, and general technology. Of course, there's been plenty of the usual banter as the masses decry the closed platform, the evils of the App Store, the lack of an optical drive, and so on and so forth. That's to be expected of anything worth discussing.</p>

@@ -2,7 +2,7 @@
 layout: blog_single
 title: Hyperinflation in Zimbabwe
 category: blog
-permalink: blog/hyperinflation_in_zimbabwe
+permalink: /blog/hyperinflation_in_zimbabwe
 shortUrl: http://jpcody.in/1p
 ---
 <p class="big_quote">100,000,000,000,000,000,000,000,000</p>

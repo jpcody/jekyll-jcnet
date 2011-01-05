@@ -2,7 +2,7 @@
 layout: blog_single
 title: Serial Entrepreneurship or Brand Architecture
 category: blog
-permalink: blog/serial_entrepreneurship_or_brand_architecture
+permalink: /blog/serial_entrepreneurship_or_brand_architecture
 shortUrl: http://jpcody.in/1i
 ---
 <p>Before you pursue business opportunities, ask yourself this question:</p>

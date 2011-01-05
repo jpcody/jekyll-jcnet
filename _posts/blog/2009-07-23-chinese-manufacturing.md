@@ -2,7 +2,7 @@
 layout: blog_single
 title: Fake Steve Jobs on Chinese Manufacturing
 category: blog
-permalink: blog/fake_steve_jobs_on_chinese_manufacturing
+permalink: /blog/fake_steve_jobs_on_chinese_manufacturing
 shortUrl: http://jpcody.in/d
 ---
 <p><a href="http://fakesteve.blogspot.com/2009/07/im-really-thinking-maybe-i-shouldnt.html">Fake Steve Jobs weighed in</a> on the recent issue of a <a href="http://www.macrumors.com/2009/07/21/foxconn-employee-reportedly-commits-suicide-over-lost-iphone-prototype/">Foxconn employee committing suicide</a> after losing a fourth-generation iPhone prototype:</p>

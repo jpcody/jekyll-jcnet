@@ -2,7 +2,7 @@
 layout: blog_single
 title: On Leading and Gratitude
 category: blog
-permalink: blog/on_leading_and_gratitude
+permalink: /blog/on_leading_and_gratitude
 shortUrl: http://jpcody.in/1b
 ---
 <p>Great leaders are grateful. Some of the men and women in my life (many without any online presence to link to, so this certainly isn't a technological point) who have influenced me the most share a common characteristic: <strong>they're incredibly gracious and appreciative.</strong> They affirm. They give. They thank.</p>

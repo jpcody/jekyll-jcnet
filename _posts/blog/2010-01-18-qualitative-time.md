@@ -2,7 +2,7 @@
 layout: blog_single
 title: The Qualitative Value of Time
 category: blog
-permalink: blog/the_qualitative_value_of_time
+permalink: /blog/the_qualitative_value_of_time
 shortUrl: http://jpcody.in/1m
 ---
 <p>Recently, I wrote of <a href="http://joshuacody.net/blog/the_two_types_of_value">two kinds of value</a>, particularly with regards to the things we consume. But there's something that defines us much more than the things we consume. And that's how we spend our <em>time</em>.</p>
