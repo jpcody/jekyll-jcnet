@@ -22,6 +22,6 @@ RewriteCond %{REQUEST_FILENAME} !/$
 RewriteRule ^(.*)$ $1/
 
 # Disable auto-adding slashes to directories without them, since this happens
-# after mod_rewrite and exposes the rewritten internal URL, e.g. turning
+# after mod_rewrite and exposes the rewritten internal URL, e.g. turning.
 # http://www.example.com/about into http://www.example.com/jekyll/about.
 DirectorySlash off
