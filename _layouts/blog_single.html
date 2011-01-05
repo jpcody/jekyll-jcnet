@@ -14,14 +14,15 @@ layout: default
     		{{ content }}
     	</div><!-- end .blog_body  -->				
     </div><!-- end .post -->
-    <div class="entry_pagination contain">
-        {% if page.previous %} 
-        <h3>Older entry:</h3>
-        <p><a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
-        {% endif %}
-        {% if page.next %} 
-        <h3>Newer entry:</h3>
-        <p><a rel="prev" href="{{ page.next.url }}">{{ page.next.title }}</a></p>
-        {% endif %}
-    </div><!-- end .entry_pagination -->
+    <!-- <div class="entry_pagination contain"> -->
+        {% if page.next_in_category %}
+		<!-- <h3 class="no_bg">Next Post:</h3>  -->
+        <!-- <p><a rel="next" href="{{ page.next.url }}">{{ page.next.title }}</a></p>  -->
+		<!-- <h2>{{ page.next_in_category.title }}</h2>  -->
+		{% endif %}
+		{% if page.previous_in_category %}
+		<!-- <h3 class="no_bg">Previous Post:</h3>  -->
+        <!-- <p><a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>  -->
+		{% endif %}
+    <!-- </div>  -->
 <!-- end #blog_content -->

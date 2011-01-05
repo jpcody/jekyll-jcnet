@@ -10,28 +10,18 @@ layout: default
     		<h2><a href="{{ post.shortUrl }}">{{ post.shortUrl }}</a></h2>
     		<h3 class="no_bg">Dated:</h3>
     		<h2>{{ post.date | date: '%d %B %Y' | replace: '01 ', '1 ' | replace: '02 ', '2 ' | replace: '03 ', '3 ' | replace: '04 ', '4 ' | replace: '05 ', '5 ' | replace: '06 ', '6 ' | replace: '07 ', '7 ' | replace: '08 ', '8 ' | replace: '09 ', '9 ' }}</h2>
-				<h3 class="no_bg">Category:</h3>
-				<h2>{{ post.categories }}</h2>
-				{% if post.next_in_category %}
-				<h3 class="no_bg">Next Post:</h3>
-				<h2>{{ post.next_in_category.title }}</h2>
-				{% endif %}
-				{% if post.previous_in_category %}
-				<h3 class="no_bg">Previous Post:</h3>
-				<h2>{{ post.previous_in_category.title }}</h2>
-				{% endif %}
     	</div><!-- end .title -->
     	<div class="blog_body">		
     		{{ post.content }}
     	</div><!-- end .blog_body  -->				
     </div><!-- end .post -->
     {% endfor %}
-    <div class="blog_pagination contain">	
+    <div class="blog_pagination contain">
     {% if categorizer.previous_page %}
-        <h3 class="left"><a href="/blog{{ categorizer.previous_page }}/blog.html">&#171; Older Entries</a></h3>
+        <h3 class="left"><a href="/blog{{ categorizer.previous_page }}/blog.html">&#171; Newer Entries</a></h3>
     {% endif %}
     {% if categorizer.next_page %}
-	    <h3 class="right"><a href="/blog{{ categorizer.next_page }}/blog.html">Newer Entrires &#187;</a></h3>
+	    <h3 class="right"><a href="/blog{{ categorizer.next_page }}/blog.html">Older Entrires &#187;</a></h3>
     {% endif %}    
     </div><!-- end .blog_pagination -->
 </div><!-- end #blog_content  -->

@@ -26,7 +26,7 @@ shortUrl: http://jpcody.in/26
 <p>Now, you no longer have to deal with multiple applications being open, memory being eaten by tasks you're unaware of, or crashes from too many things going on at once.</p>
 <p>If each of my applications would open via a simple process in a near-instant, my need for multiple applications would be nearly obliterated.</p>
 <p>Not <strong>completely</strong> though. From time-to-time I need to split windows like this:</p>
-<img src="/images/blog-img/2010_02_05_splitscreen.jpg" alt="Split screen windows" width="430" height="269" class="center"/>
+<img src="/images/blog-img/2010-02-05-splitscreen.jpg" alt="Split screen windows" width="430" height="269" class="center"/>
 <p>And I consider some of my utilities that run in the background as non-negotiables (looking at you <a href="http://code.google.com/p/blacktree-alchemy/">Quicksilver</a>, <a href="http://www.smileonmymac.com/TextExpander/">TextExpander</a>, <a href="http://agilewebsolutions.com/products/1Password">1Password</a>, and <a href="http://droplr.com/hello">Droplr</a>.)</p>
 <p>But you know who doesn't? Your mom. Or the average user.</p>
 <p>Apple isn't looking to replace your MacBook Pro. Or your Mac Pro. Perhaps OS 11 will take things in the direction of the iPhone OS, but I hope not, and I doubt it.</p>
